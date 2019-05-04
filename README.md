@@ -1,2 +1,2 @@
 # gitskills
-create a branch
+create a branch is quick and simple
